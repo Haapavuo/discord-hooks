@@ -1,5 +1,5 @@
 # Discord Hooks
-Useful Discord hooks for various services.
+Useful Discord hooks for various services. Made in C#.
 
 Coming soon:
 - JIRA --> Discord
